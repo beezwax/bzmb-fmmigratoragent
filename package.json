@@ -1,0 +1,11 @@
+{
+  "name": "bzmb-fmmigratoragent",
+  "version": "0.1.0",
+  "description": "A microbond for bzBond server that supports automated FileMaker migtrations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Beezwax",
+  "license": "MIT"
+}
